@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Md Shahil Ahmed 👋
 
-<!--
-**shahilahmed/shahilahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer interested in:
 
-Here are some ideas to get you started:
+- Programming Languages
+- Compiler Design
+- Parser Combinators
+- Algorithms
+- Python
+- Astronomy
+- Board Game AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building software from scratch, learning how things work internally, and sharing my work through open source.
