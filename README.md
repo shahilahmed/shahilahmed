@@ -8,6 +8,6 @@ Software developer interested in:
 - Algorithms
 - Python
 - Astronomy
-- Board Game AI
+- Board Game Artificial Intelligence
 
 I enjoy building software from scratch, learning how things work internally, and sharing my work through open source.
